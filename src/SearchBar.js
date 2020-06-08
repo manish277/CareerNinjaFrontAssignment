@@ -14,7 +14,7 @@ export default class SearchBar extends React.Component {
     onTextChange = async (e) => {
         const value = e.target.value;
         let location;
-        const data = await fetch(`http://localhost:3000/autosearch?value=${value}`)
+        const data = await fetch(`https://radiant-harbor-26955.herokuapp.com/autosearch?value=${value}`)
         location = await data.json();
         const items = location;
         let suggestion = []
@@ -28,7 +28,7 @@ export default class SearchBar extends React.Component {
 
         let locationdata;
 
-        const data = await fetch(`http://localhost:3000/search?location=${value}`)
+        const data = await fetch(`https://radiant-harbor-26955.herokuapp.com/search?location=${value}`)
         locationdata = await data.json();
         this.setState(() => ({
             text: value,
