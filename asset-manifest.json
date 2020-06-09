@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CareerNinjaFrontAssignment/static/css/main.c413e016.chunk.css",
+    "main.js": "/CareerNinjaFrontAssignment/static/js/main.68348745.chunk.js",
+    "main.js.map": "/CareerNinjaFrontAssignment/static/js/main.68348745.chunk.js.map",
+    "runtime-main.js": "/CareerNinjaFrontAssignment/static/js/runtime-main.bfff947b.js",
+    "runtime-main.js.map": "/CareerNinjaFrontAssignment/static/js/runtime-main.bfff947b.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/CareerNinjaFrontAssignment/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2a56df24.chunk.js": "/CareerNinjaFrontAssignment/static/js/2.2a56df24.chunk.js",
+    "static/js/2.2a56df24.chunk.js.map": "/CareerNinjaFrontAssignment/static/js/2.2a56df24.chunk.js.map",
+    "index.html": "/CareerNinjaFrontAssignment/index.html",
+    "precache-manifest.9356d9bc7648e434ed5bc915fdfe7798.js": "/CareerNinjaFrontAssignment/precache-manifest.9356d9bc7648e434ed5bc915fdfe7798.js",
+    "service-worker.js": "/CareerNinjaFrontAssignment/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/CareerNinjaFrontAssignment/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.c413e016.chunk.css.map": "/CareerNinjaFrontAssignment/static/css/main.c413e016.chunk.css.map",
+    "static/js/2.2a56df24.chunk.js.LICENSE.txt": "/CareerNinjaFrontAssignment/static/js/2.2a56df24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfff947b.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2a56df24.chunk.js",
+    "static/css/main.c413e016.chunk.css",
+    "static/js/main.68348745.chunk.js"
+  ]
+}
